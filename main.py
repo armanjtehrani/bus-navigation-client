@@ -5,7 +5,46 @@ from bus import *
 
 
 BUS_TOKENS = [
-    'qwerty',
+"oiuytr", #hengam
+ "iuytre",
+ "uytrew",
+"zxcvbn",#Res
+"xcvbnm",
+"mnbvcx",
+"qwerty",#Bahg
+"wertyu",
+"ertyui",
+]
+
+
+
+ALL_BUS_TOKENS = [
+ "oiuytr", #hengam
+ "iuytre",
+ "uytrew",
+ "ytrewq",
+ "qazwsx",
+ "wsxedc",
+ "edcrfv",
+ "rfvtgb",
+"zxcvbn",#Res
+"xcvbnm",
+"mnbvcx",
+"nbvcxz",
+"lkjhgf",
+"kjhgfd",
+"jhgfds",
+"hgfdsa",
+"poiuyt",
+"qwerty",#Bahg
+"wertyu",
+"ertyui",
+"rtyuio",
+"tyuiop",
+"asdfgh",
+"sdfghj",
+"dfghjk",
+"fghjkl",
 ]
 
 
